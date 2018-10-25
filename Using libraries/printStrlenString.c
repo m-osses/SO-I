@@ -3,7 +3,7 @@
 
 int main()
 {
-char s[1000],
+char s[1000];
 unsigned i;
 printf("Enter a string: ");
 scanf("%s", s);
